@@ -1,7 +1,7 @@
 # Introduction to Google Earth Engine (GEE)
 This repo briefly lays out the "code along" exercise using [Google Earth Engine](https://earthengine.google.com/) - so click the link to open it up in your browser! This activity will introduce you to the basics of JavaScript (JS) and build on what you already know about Python. The code along starts with `JS_basics.js` to practice some basic coding in JS and is followed by `DSM_analysis` which will be your first analysis in GEE!
 
-If you want to dive deeper, you can find ([more info here abotut Google Earth Engine](https://www.google.com/earth/outreach/learn/introduction-to-google-earth-engine/)). These are released before our code along to give students a good background in what they will be working with. I also have them sign up for the GEE service well in advance, since the approval process was taking around 1 week at the time of writing.
+If you want to dive deeper, you can find [more info here abotut Google Earth Engine](https://www.google.com/earth/outreach/learn/introduction-to-google-earth-engine/). These are released before our code along to give students a good background in what they will be working with. I also have them sign up for the GEE service well in advance, since the approval process was taking around 1 week at the time of writing.
 
 ## Getting Started with JS
 Head over to [the code for this portion of the code along](/JS_basics.js) so that you can copy/paste if needed. Remember that no geospatial analysis takes place in `JS_basics.js`. Instead, all outputs are rendered in the GEE console tab as seen below.
